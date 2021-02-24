@@ -77,7 +77,6 @@ const Index: NextPage<Props> = () => {
         background: design.colors.backgroundColor,
       }}
     >
-      <Omf />
       {/* eslint-disable-next-line @typescript-eslint/no-unsafe-member-access */}
       <Swiper {...swiperConfig} ref={(element) => element && setSwiper((element as any).swiper)}>
         {[

@@ -59,7 +59,6 @@ const Index: NextPage = () => {
         background: '#437fdc',
       }}
     >
-      <Omf />
       <img
         alt={'OhMyForm'}
         style={{

@@ -60,7 +60,6 @@ const Register: NextPage = () => {
 
   return (
     <AuthLayout loading={loading}>
-      <Omf />
       <Form
         form={form}
         name="login"

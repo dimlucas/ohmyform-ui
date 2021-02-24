@@ -8,7 +8,6 @@ import { Omf } from '../../components/omf'
 const Recover: NextPage = () => {
   return (
     <AuthLayout>
-      <Omf />
       <Alert
         style={{
           margin: 'auto',
